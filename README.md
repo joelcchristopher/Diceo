@@ -1,6 +1,6 @@
 # Diceo
 Simple dice game.
-(dice created by Html and Css only).
+(dice using HTML and CSS only).
 
 
 Reload to determine the winner.
