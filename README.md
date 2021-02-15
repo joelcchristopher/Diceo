@@ -1,0 +1,2 @@
+# Diceo
+Simple dice game.
