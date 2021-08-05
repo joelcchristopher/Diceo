@@ -5,6 +5,12 @@ body{
 
 /* Head */
 
+h3{
+  color:#ec4646;
+  font-family: Space mono, monospace;
+}
+  
+
 .head{
   padding: 3% 15% 5%;
   text-align: center;
